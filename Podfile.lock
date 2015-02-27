@@ -1,0 +1,24 @@
+PODS:
+  - FCFileManager (1.0.7)
+  - MHWDirectoryWatcher (0.0.6)
+  - OrigamiEngine (1.0.14):
+    - OrigamiEngine/Core (= 1.0.14)
+  - OrigamiEngine/Core (1.0.14)
+  - OrigamiEngine/Flac (1.0.14):
+    - OrigamiEngine/Core
+  - OrigamiEngine/Opus (1.0.14):
+    - OrigamiEngine/Core
+
+DEPENDENCIES:
+  - FCFileManager
+  - MHWDirectoryWatcher
+  - OrigamiEngine
+  - OrigamiEngine/Flac
+  - OrigamiEngine/Opus
+
+SPEC CHECKSUMS:
+  FCFileManager: 5c46704afcc14dd7616e8b8b9c2ba79b14f7f800
+  MHWDirectoryWatcher: 0deb738645a3ffab45e9783ca1ae8e6eb13214b7
+  OrigamiEngine: f7d7970d0258c9fd48b4c884466337ea549176a3
+
+COCOAPODS: 0.35.0
